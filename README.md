@@ -26,8 +26,11 @@ Senior Software Engineer based in Stuttgart / Baden-Württemberg / Germany
 ![Azure AI services](http://img.shields.io/badge/-Azure%20AI%20services-2088FF?style=flat-square&logo=Microsoft-Azure&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Kubernetes](http://img.shields.io/badge/-Kubernetes-326ce8?style=flat-square&logo=kubernetes&logoColor=ffffff)
+
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![VS](http://img.shields.io/badge/-Visual%20Studio-cc37ac?style=flat-square&logo=visual-studio&logoColor=ffffff)
+![Rider](http://img.shields.io/badge/-JetBrains%20Rider-fe9c0e?style=flat-square)
+
 ![Windows](http://img.shields.io/badge/-Windows-1e851e?style=flat-square&logo=windows&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/-Linux-26C9FF?style=flat-square&logo=linux&logoColor=ffffff)
 
