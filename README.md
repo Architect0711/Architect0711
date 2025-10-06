@@ -7,8 +7,8 @@ Senior Software Engineer based in Stuttgart / Baden-Württemberg / Germany
 ![C#](http://img.shields.io/badge/-C%23-007396?style=flat-square&logo=c-sharp&logoColor=ffffff)
 ![.NET](http://img.shields.io/badge/-.NET-6DB33F?style=flat-square&logo=.NET&logoColor=ffffff)
 ![.NET Core](http://img.shields.io/badge/-.NET%20Core-3DDC84?style=flat-square&logo=.NET&logoColor=ffffff)
-![Python](http://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=ffffff)
-![C++](http://img.shields.io/badge/-C++-000000?style=flat-square&logo=cpp&logoColor=ffffff)
+![Python](http://img.shields.io/badge/-Python-ffffff?style=flat-square&logo=python)
+![C++](http://img.shields.io/badge/-C++-ffffff?style=flat-square&logo=cplusplus)
 
 ### Frontend
 ![Angular](http://img.shields.io/badge/-Angular-CC2927?style=flat-square&logo=angular&logoColor=ffffff)
