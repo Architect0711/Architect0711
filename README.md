@@ -16,13 +16,18 @@ Senior Software Engineer based in Stuttgart / Baden-Württemberg / Germany
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![SCSS](https://img.shields.io/badge/-SCSS-%23CC6699?style=flat-square&logo=scss&logoColor=ffffff)
 
-### Infrastructure
+### Other
 ![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 ![Azure SQL](http://img.shields.io/badge/-Azure%20SQL-2088FF?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
+
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-Gitlab-e24229?style=flat-square&logo=gitlab)
+
 ![JIRA](http://img.shields.io/badge/-JIRA-3769cc?style=flat-square&logo=jira&logoColor=ffffff)
 ![Azure Devops](http://img.shields.io/badge/-Azure%20Devops-2088FF?style=flat-square&logo=azuredevops&logoColor=ffffff)
+
+![Azure](http://img.shields.io/badge/-Azure-2088FF?style=flat-square&logo=Microsoft-Azure&logoColor=ffffff)
 ![Azure AI services](http://img.shields.io/badge/-Azure%20AI%20services-2088FF?style=flat-square&logo=Microsoft-Azure&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Kubernetes](http://img.shields.io/badge/-Kubernetes-326ce8?style=flat-square&logo=kubernetes&logoColor=ffffff)
@@ -30,6 +35,8 @@ Senior Software Engineer based in Stuttgart / Baden-Württemberg / Germany
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![VS](http://img.shields.io/badge/-Visual%20Studio-cc37ac?style=flat-square&logo=visual-studio&logoColor=ffffff)
 ![Rider](http://img.shields.io/badge/-JetBrains%20Rider-fe9c0e?style=flat-square)
+![PyCharm](http://img.shields.io/badge/-JetBrains%20PyCharm-fef750?style=flat-square)
+![CLion](http://img.shields.io/badge/-JetBrains%20CLion-1fbba1?style=flat-square)
 
 ![Windows](http://img.shields.io/badge/-Windows-1e851e?style=flat-square&logo=windows&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/-Linux-26C9FF?style=flat-square&logo=linux&logoColor=ffffff)
