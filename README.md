@@ -1,16 +1,33 @@
 ## Hi there 👋
 
-<!--
-**Architect0711/Architect0711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer based in Stuttgart / Baden-Württemberg / Germany
 
-Here are some ideas to get you started:
+### Backend
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![C#](http://img.shields.io/badge/-C%23-007396?style=flat-square&logo=c-sharp&logoColor=ffffff)
+![.NET](http://img.shields.io/badge/-.NET-6DB33F?style=flat-square&logo=.NET&logoColor=ffffff)
+![.NET Core](http://img.shields.io/badge/-.NET%20Core-3DDC84?style=flat-square&logo=.NET&logoColor=ffffff)
+
+### Frontend
+![Angular](http://img.shields.io/badge/-Angular-CC2927?style=flat-square&logo=angular&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-26C9FF?style=flat-square&logo=typescript&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![SCSS](https://img.shields.io/badge/-SCSS-%23CC6699?style=flat-square&logo=scss&logoColor=ffffff)
+
+### Infrastructure
+![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
+![Azure SQL](http://img.shields.io/badge/-Azure%20SQL-2088FF?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![JIRA](http://img.shields.io/badge/-JIRA-3769cc?style=flat-square&logo=jira&logoColor=ffffff)
+![Azure Devops](http://img.shields.io/badge/-Azure%20Devops-2088FF?style=flat-square&logo=azuredevops&logoColor=ffffff)
+![Azure AI services](http://img.shields.io/badge/-Azure%20AI%20services-2088FF?style=flat-square&logo=Microsoft-Azure&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Kubernetes](http://img.shields.io/badge/-Kubernetes-326ce8?style=flat-square&logo=kubernetes&logoColor=ffffff)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![VS](http://img.shields.io/badge/-Visual%20Studio-cc37ac?style=flat-square&logo=visual-studio&logoColor=ffffff)
+![Windows](http://img.shields.io/badge/-Windows-1e851e?style=flat-square&logo=windows&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/-Linux-26C9FF?style=flat-square&logo=linux&logoColor=ffffff)
+
