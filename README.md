@@ -43,3 +43,6 @@ Senior Software Engineer based in Stuttgart / Baden-Württemberg / Germany
 ![Windows](http://img.shields.io/badge/-Windows-1e851e?style=flat-square&logo=windows&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/-Linux-26C9FF?style=flat-square&logo=linux&logoColor=ffffff)
 
+<!-- 
+For the available icons check https://www.simpleicons.org
+-->
